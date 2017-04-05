@@ -1,4 +1,6 @@
-This is an example DataPackage that demonstrates usage of "Vega Graph Specifications". This Demo Data Package implements an example from [here](https://vega.github.io/vega-editor/?mode=vega&spec=driving).
+Relationship between gasoline prices and driving habits in the US based on [Driving Shifts Into Reverse](http://www.nytimes.com/imagepages/2010/05/02/business/02metrics.html) by Hannah Fairfield. The New York Times (May 2, 2010).
+
+This is an example DataPackage that demonstrates usage of "Vega Graph Specifications". This Demo Data Package based on [this example](https://vega.github.io/vega-editor/?mode=vega&spec=driving).
 
 ## Views
 
