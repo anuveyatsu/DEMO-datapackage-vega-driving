@@ -5,6 +5,7 @@
     {
       "name": "drive",
       "path": "data/driving.csv",
+      "format": "csv",
       "schema": {
         "fields": [
           {
@@ -176,6 +177,17 @@
             }
           }
         ]
+      }
+    },
+
+    {
+      "name": "simple-view",
+      "title": "Line chart",
+      "specType": "simple",
+      "spec": {
+        "type": "line",
+        "group": "year",
+        "series": ["miles"]
       }
     }
   ]
