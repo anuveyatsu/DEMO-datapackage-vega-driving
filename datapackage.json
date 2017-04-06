@@ -32,14 +32,14 @@
     {
       "name": "demo-datapackage-vega",
       "title": "Demo chart using Vega spec",
+      "resources": [0],
       "specType": "vega",
       "spec": {
         "width": 800,
         "height": 500,
         "data": [
           {
-            "name": "drive",
-            "source": "drive"
+            "name": "drive"
           }
         ],
         "scales": [
